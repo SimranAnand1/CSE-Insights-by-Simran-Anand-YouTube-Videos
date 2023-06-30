@@ -2,7 +2,8 @@
 This is a repository consisting of YouTube videos on my channel: CSE Insights by Simran Anand. Please Subscribe to my YouTube Channel to stay tuned for interesting content on Computer Science topics with helpful explanation in depth: https://www.youtube.com/channel/UCHNkA15KHRoljTA2qhwwDEA?sub_confirmation=1
 
 Check out the playlists for various concepts:
-Data Structures and Algorithms and Programming: Watch some of my YouTube videos on Data Structures and Algorithms to learn Coding https://youtube.com/playlist?list=PL8OvEtXVzNgzu7yvWVfTom3ZnY4pUOUeV
+Data Structures and Algorithms and Programming:
+https://youtube.com/playlist?list=PL8OvEtXVzNgzu7yvWVfTom3ZnY4pUOUeV
 
 Data Science and Artificial Intelligence/Machine Learning: https://youtube.com/playlist?list=PL8OvEtXVzNgzeOo7NfRxBAGtpGkoEkmEG
 
