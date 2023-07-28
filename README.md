@@ -5,6 +5,8 @@ Check out the playlists for various concepts:
 Data Structures and Algorithms and Programming:
 https://youtube.com/playlist?list=PL8OvEtXVzNgzu7yvWVfTom3ZnY4pUOUeV
 
+MLOps Full Stack Data Science Playlist: https://youtube.com/playlist?list=PL8OvEtXVzNgyjmbgvJ_avy0SeeSaRxjHb
+
 Data Science and Artificial Intelligence/Machine Learning: https://youtube.com/playlist?list=PL8OvEtXVzNgzeOo7NfRxBAGtpGkoEkmEG
 
 Software Engineering and Development: https://youtube.com/playlist?list=PL8OvEtXVzNgxssM9VzKBnlRgkwYt0UIPq
